@@ -38,10 +38,10 @@ function Profile({ name, tag, location, avatar, stats }) {
 
 Profile.propTypes = {
   name: PropTypes.string.isRequired,
-  tag: PropTypes.number.isRequired,
+  tag: PropTypes.string.isRequired,
   location: PropTypes.string.isRequired,
   avatar: PropTypes.string.isRequired,
-  stats: PropTypes.objectOf.isRequired,
+  stats: PropTypes.object.isRequired,
 };
 
 

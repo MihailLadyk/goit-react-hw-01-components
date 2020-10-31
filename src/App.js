@@ -1,13 +1,13 @@
 import React from "react";
 
-import Statistics from "./components/statistics/statistics";
-import statistics from "./data/statistical-data.json";
+// import Statistics from "./components/statistics/statistics";
+// import statistics from "./data/statistical-data.json";
 
-import Profile from "./components/Profile/Profile";
-import user from "./data/user.json";
+// import Profile from "./components/Profile/Profile";
+// import user from "./data/user.json";
 
-import TransactionHistory from "./components/TransactionHistory/TransactionHistory";
-import items from "./data/transactions.json";
+// import TransactionHistory from "./components/TransactionHistory/TransactionHistory";
+// import items from "./data/transactions.json";
 
 import FriendList from "./components/FriendList/FriendList.js";
 import friends from "./data/friends.json";
